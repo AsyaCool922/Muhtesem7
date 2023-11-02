@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+Limonlu Kek
+Malzemeler
+1. Limon
+2. Seker
+=======
 Yeni Limonlu Kek
 Malzemeler
 1. Limon
 2. Seker
 3. Un
 4. Vanilya
+>>>>>>> f28b5cba53d64da0d4652731f54786021e87705e
