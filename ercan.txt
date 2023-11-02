@@ -2,4 +2,10 @@ kek tarifi
 1.sut
 2.yumurta
 3.un
+<<<<<<< HEAD
 4.un
+=======
+4.un
+day2
+day3
+>>>>>>> f28b5cba53d64da0d4652731f54786021e87705e

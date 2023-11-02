@@ -1,6 +1,10 @@
 1- ne haber 
 2- nasilsin
+<<<<<<< HEAD
 3- nasil gidiyor
 
 iyiyim
 sen nasilsin
+=======
+3- nasil gidiyor
+>>>>>>> f28b5cba53d64da0d4652731f54786021e87705e
