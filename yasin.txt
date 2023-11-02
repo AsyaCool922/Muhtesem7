@@ -6,6 +6,11 @@ Malzemler:
 4.nisasta
 5.yag
 6.yumurta
+<<<<<<< HEAD
+=======
 7. kabartma tozu
 8. ekmek (olmazsa olmaz)
 9. Yiyecek insan
+
+Artik gezmek icin yazayim
+>>>>>>> f28b5cba53d64da0d4652731f54786021e87705e
