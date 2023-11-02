@@ -3,3 +3,4 @@ kek tarifi
 2.yumurta
 3.un
 4.un
+day2

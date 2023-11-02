@@ -6,3 +6,4 @@ Malzemler:
 4.nisasta
 5.yag
 6.yumurta
+7. kabartma tozu
