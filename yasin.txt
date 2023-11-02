@@ -1,0 +1,8 @@
+Kek tarifi
+Malzemler:
+1.Su
+2.Un
+3.cikolata
+4.nisasta
+5.yag
+6.yumurta
